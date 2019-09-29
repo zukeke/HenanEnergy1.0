@@ -1,0 +1,58 @@
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\bin\Debug\HenanEnergy.exe.config
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergy.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\MainWindow.g.cs
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\App.g.cs
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergy_MarkupCompile.cache
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergy_MarkupCompile.lref
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\bin\Debug\HenanEnergy.exe
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\bin\Debug\HenanEnergy.pdb
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\bin\Debug\LiveCharts.dll
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\bin\Debug\LiveCharts.Wpf.dll
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\bin\Debug\LiveCharts.pdb
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\bin\Debug\LiveCharts.xml
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\bin\Debug\LiveCharts.Wpf.pdb
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\bin\Debug\LiveCharts.Wpf.xml
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\MainWindow.baml
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergy.g.resources
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergy.Properties.Resources.resources
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergy.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergy.exe
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergy.pdb
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergyDevelop\HenanEnergyDevelop_Page.g.cs
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergyDevelop\ThreeIndex.g.cs
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergyDevelop\HenanEnergyDevelop_Page.baml
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergyDevelop\ThreeIndex.baml
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergyDevelop\EconomyEnergyRelationship.g.cs
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergyDevelop\EconomyEnergyRelationship.baml
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergyDevelop\TwoFiftyPercent.g.cs
+E:\Visual Studio 2015\Projects\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergyDevelop\TwoFiftyPercent.baml
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\bin\Debug\HenanEnergy.exe.config
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergy.exe
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergy.pdb
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\bin\Debug\HenanEnergy.exe
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\bin\Debug\HenanEnergy.pdb
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\bin\Debug\LiveCharts.dll
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\bin\Debug\LiveCharts.pdb
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\bin\Debug\LiveCharts.xml
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergy.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergyDevelop\TwoFiftyPercent.g.cs
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergyDevelop\EconomyEnergyRelationship.g.cs
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergyDevelop\HenanEnergyDevelop_Page.g.cs
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergyDevelop\ThreeIndex.g.cs
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergy_MarkupCompile.cache
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergy_MarkupCompile.lref
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergyDevelop\TwoFiftyPercent.baml
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergyDevelop\EconomyEnergyRelationship.baml
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergyDevelop\HenanEnergyDevelop_Page.baml
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergyDevelop\ThreeIndex.baml
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergy.g.resources
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergy.Properties.Resources.resources
+C:\Users\lenovo\Desktop\HenanEnergy2019-9-28\HenanEnergy\HenanEnergy\obj\Debug\HenanEnergy.csproj.GenerateResource.Cache
